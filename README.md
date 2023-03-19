@@ -17,3 +17,7 @@ An expense tracker webapp built using ReactJS. Used ContextAPI and some other ho
 
 ## Deployment
 URL: https://xpense-logger.netlify.app/
+
+
+## Usage
+use a positive sign(+) to register an income and a negative sign(-) to register an expense. Your net balance will be visible under the title.
